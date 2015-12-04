@@ -1,0 +1,20 @@
+20151120 - 20151204: Chris Pine Book: Exercises
+
+20151204:
+17:56: 14 reps done so far.. Interesting anomaly cropped up; it skips numbers with '000'.
+18:24: opted not to fix the 000 issue just yet.  Reps up to 20.
+
+20151201:
+18:50: Working on 9th rep of 'Leap Year'
+19:11: 12 reps now done.
+
+20151124:
+17:30: Deaf Granny now at 50 reps.  Well done!  Move on to next exercise; Leap Years.  First rep done.
+18:09: Finshed at 6 reps.  Read up on modulus.
+
+
+20151120:
+Deaf Granny Extended: 38 reps
+17:32: Started after a 10 day hiatus.
+17:45: Reached 41 reps of extended granny.
+18:15: Finished at 49 reps, do one more and you're actually ready to move on...!  DONE!  50 reps!!
