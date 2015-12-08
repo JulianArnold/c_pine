@@ -1,4 +1,8 @@
-20151120 - 20151205: Chris Pine Book: Exercises
+20151120 - 20151208: Chris Pine Book
+
+20151208:
+Started Arrays and Iterators.  Arrays are simple enough and iterators are important as they're all over RoR.
+18:10: finished on page 77 on an explanation of iterators..g
 
 20151205:
 14:38: Started by reaching 22 reps.

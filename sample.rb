@@ -1,20 +1,13 @@
-# 20151124 - 20151205: leap years: reps: 30 inclusive
+# 20151124 - 20151208: Arrays & Iterators
 
-puts 'Pick a starting year (like 1973 or something):'
-starting = gets.chomp.to_i
+# Reps: 3
 
-puts 'Now pick an ending year:'
-ending = gets.chomp.to_i
+languages = ['Norwegian', 'English', 'Ruby']
 
-puts 'Check it out, these are leap years:'
-
-year = starting
-
-while year <= ending
-  if year%4 == 0
-    if year%100 != 0 || year%400 == 0
-      puts year
-    end
-  end
-  year += 1
+languages.each do |lang|
+  puts 'I love '+lang+''
+  puts 'Don\'t you?'
 end
+
+puts 'And let\'s hear it for Java!!!'
+puts '<crickets chirp in the distance>'
