@@ -21,7 +21,6 @@ Started Arrays and Iterators.  Arrays are simple enough and iterators are import
 17:30: Deaf Granny now at 50 reps.  Well done!  Move on to next exercise; Leap Years.  First rep done.
 18:09: Finshed at 6 reps.  Read up on modulus.
 
-
 20151120:
 Deaf Granny Extended: 38 reps
 17:32: Started after a 10 day hiatus.
