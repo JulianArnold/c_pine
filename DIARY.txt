@@ -1,4 +1,7 @@
-20151120 - 20151208: Chris Pine Book
+20151120 - 20160106: Chris Pine Book
+
+20160106:
+Right back at it first of the year.  Practicing the arrays & iterators.
 
 20151208:
 Started Arrays and Iterators.  Arrays are simple enough and iterators are important as they're all over RoR.
