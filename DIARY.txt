@@ -1,7 +1,16 @@
-20151120 - 20160106: Chris Pine Book
+20151120 - 20160111: Chris Pine Book
+
+20160111:
+Practicing the array method: 'join'.  Finished chapter and now started on exercises (1 rep done)
+
+20160110:
+Some additional reading on page 78.  21 reps done with the languages example.
+
+20160109:
+Practicing a couple more arrays & iterators.  20 reps done.
 
 20160106:
-Right back at it first of the year.  Practicing the arrays & iterators.
+Right back at it first of the year.  Practicing arrays & iterators.
 
 20151208:
 Started Arrays and Iterators.  Arrays are simple enough and iterators are important as they're all over RoR.
