@@ -1,4 +1,10 @@
-20151120 - 20160111: Chris Pine Book
+20151120 - 20160210: Chris Pine Book
+
+20160210:
+Back to practice.  21 reps of the arrays exercise so far...
+
+20160112:
+Arrays & iterators, exercises; reps: 11
 
 20160111:
 Practicing the array method: 'join'.  Finished chapter and now started on exercises (1 rep done)
