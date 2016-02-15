@@ -1,4 +1,5 @@
-# 20151130 - 20160210: Arrays & Iterators
+# 20151130 - 20160215: Arrays & Iterators
 
-# reps: 21
+# Table of contents
 
+# reps: 3

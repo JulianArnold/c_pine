@@ -1,4 +1,8 @@
-20151120 - 20160210: Chris Pine Book
+20151120 - 20160215: Chris Pine Book
+
+20160215:
+Continue with CP's arrays & iterators only this time, I'm including some new stuff learned from codeSchool and CP's
+ own example 'how I would do it.'  Interesting thing is the '<<' instead of a '.push'.  Finished on next exercise.
 
 20160210:
 Back to practice.  21 reps of the arrays exercise so far...
