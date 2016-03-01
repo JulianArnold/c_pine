@@ -21,7 +21,7 @@
 # puts other_peeps
 
 
-# ITERATORS
+# ITERATORS and ARRAYS
 
 # languages = ['Norwegian', 'English', 'Ruby']
 #
@@ -32,3 +32,24 @@
 #
 # puts 'And let\'s hear it for Java!!!'
 # puts '<crickets chirp in the distance>'
+
+
+# title = 'Table of Contents:' # variable pointing to ToCs
+#
+# chapters = [['Getting Started', 1], ['Numbers', 9], ['Letters', 13], ['Index', 99]] # 3 arrays within an array
+#
+# puts title.center(50) # centering the title
+# puts # adding an empty line space
+#
+# chap_num = 1 # var chap_num pointing to a value of 1
+#
+# chapters.each do |chap|
+#   name = chap[0]
+#   page = chap[1]
+#   # var name, page point to objects in each (4) arrays at indices '0' and '1' alternating within each array
+#   beginning = 'Chapter ' +chap_num.to_s+ ': ' +name
+#   ending = 'page ' +page.to_s
+#
+#   puts beginning.ljust(30) + ending.rjust(20) # places 'Chapter ' and 'page ' at their justified positions
+#   chap_num += 1 # increments by 1 with each iteration
+# end

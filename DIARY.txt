@@ -1,4 +1,26 @@
-20151120 - 20160215: Chris Pine Book
+20151120 - 20160301: Chris Pine Book
+
+20160301:
+Understand the array and iterator process, not so much as memorized tho'.
+
+20160226:
+40 Reps done!!
+
+20160225:
+'Table of contents' example.  Up to 30 reps done which includes CP's 'How I'd do it..
+
+20160224:
+'Table of contents' example.  Up to 22 reps done.
+
+20160222:
+Working away on the CP example of page 178: 'Table of Contents'.
+
+20160219:
+Studying the Table of Contents array and iterator, went through it line by line commenting my understanding of what's
+going on there.  Interesting they way it works :)
+
+20160216:
+Next exercise is re-visiting the Table of Contents from Ch 6.
 
 20160215:
 Continue with CP's arrays & iterators only this time, I'm including some new stuff learned from codeSchool and CP's
