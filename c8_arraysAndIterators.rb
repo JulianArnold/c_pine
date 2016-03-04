@@ -53,3 +53,21 @@
 #   puts beginning.ljust(30) + ending.rjust(20) # places 'Chapter ' and 'page ' at their justified positions
 #   chap_num += 1 # increments by 1 with each iteration
 # end
+
+# CP's version of Table of Contents (which I prefer :) )
+# title = 'Table of Contents:'
+#
+# chapters = [['Getting Started', 1], ['Numbers', 9], ['Letters', 13]]
+#
+# puts title.center(50)
+# puts
+#
+# chapters.each_with_index do |chap, idx|
+#   name, page = chap
+#   chap_num = idx + 1
+#
+#   beginning = "Chapters #{chap_num}: #{name}"
+#   ending = "Page #{page}"
+#
+#   puts beginning.ljust(30) + ending.rjust(20)
+# end

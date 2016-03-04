@@ -1,7 +1,9 @@
 20151120 - 20160301: Chris Pine Book
 
 20160301:
-Understand the array and iterator process, not so much as memorized tho'.
+17:40: Understand the array and iterator process, not so much as memorized tho'.  42 done.
+18:12: With 42 reps of the last exercise now done, let's push on to the next chapter.  Arrays and iterators
+ran from 20151130 to 20160301.
 
 20160226:
 40 Reps done!!
@@ -46,7 +48,7 @@ Right back at it first of the year.  Practicing arrays & iterators.
 
 20151208:
 Started Arrays and Iterators.  Arrays are simple enough and iterators are important as they're all over RoR.
-18:10: finished on page 77 on an explanation of iterators..g
+18:10: finished on page 77 on an explanation of iterators..
 
 20151205:
 14:38: Started by reaching 22 reps.

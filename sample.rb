@@ -1,5 +1,1 @@
-# 20151130 - 20160229: Arrays & Iterators
-
-# Table of contents
-
-# reps: 41
+# 20160301 - 20160301: Writing your own methods
