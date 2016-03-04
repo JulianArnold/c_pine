@@ -1,4 +1,7 @@
-20151120 - 20160301: Chris Pine Book
+20151120 - 20160304: Chris Pine Book
+
+20160304:
+Starting on chapter 9: writing your own methods.
 
 20160301:
 17:40: Understand the array and iterator process, not so much as memorized tho'.  42 done.
