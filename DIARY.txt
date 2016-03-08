@@ -1,4 +1,10 @@
-20151120 - 20160304: Chris Pine Book
+20151120 - 20160308: Chris Pine Book
+
+20160308:
+Continuing with the examples within the chapter.
+
+20160307:
+Reading, absorbing all about parameters vs. arguments.  Still a little confused.  Getting clearer with persistence :)
 
 20160304:
 Starting on chapter 9: writing your own methods.
