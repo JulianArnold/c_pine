@@ -38,8 +38,6 @@ class BankAccount
 		puts ''
 		amount3 = amount1.merge(amount2)
 	end
-	
-	
 end
 
 bank_account = BankAccount.new("Julian Arnold")

@@ -1,4 +1,17 @@
-20151120 - 20160308: Chris Pine Book
+20151120 - 20160315: Chris Pine Book
+
+20160315:
+Reading pages 87 & 88.
+
+
+20160314:
+Studying the local variable example.  Reps: 11
+
+20160312:
+Welcome to parameters and local variables!
+
+20160311:
+Moved on from parameters to local variables.
 
 20160308:
 Continuing with the examples within the chapter.
