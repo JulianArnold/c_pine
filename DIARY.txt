@@ -1,4 +1,10 @@
-20151120 - 20160326: Chris Pine Book
+20151120: Chris Pine Book
+
+20160509:
+Been a while so, back at writing my own methods' practice.  Completed about 17 runs of some examples in an hour.
+
+20160404:
+Returning a value exercises.  Reps:2
 
 20160326:
 Working on chapter 9.
