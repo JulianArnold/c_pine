@@ -1,5 +1,15 @@
 20151120: Chris Pine Book
 
+20160512:
+
+Continuing with page 92/93 the favourite food and drink program.
+
+20160511:
+Practicing on the say_moo method.  Page 92/93 the favourite food and drink program.
+
+20160510:
+Continuing on with writing my own methods...
+
 20160509:
 Been a while so, back at writing my own methods' practice.  Completed about 17 runs of some examples in an hour.
 

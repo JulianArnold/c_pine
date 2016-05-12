@@ -84,11 +84,41 @@
 # puts
 # puts wets_bed
 
-def say_moo number_of_moos
-  puts 'mooo...' * number_of_moos
-end
-
-say_moo 3
-puts 'oink-oink'
-
-say_moo
+# def say_moo number_of_moos
+#   puts 'mooo...' * number_of_moos
+#   'last line of the block'
+# end
+#
+# x = say_moo 3
+# puts x.reverse + '..dude!!'
+# puts x + '.'
+#
+#
+# def favourite_food name
+#   if name == 'Lister'
+#     return 'vindaloo'
+#   end
+#
+#   if name == 'Rimmer'
+#     return 'mashed potatoes'
+#   end
+#
+#   'hard to say, maybe fried plantain?'
+# end
+#
+# def favourite_drink name
+#   if name == 'Jean-Luc'
+#     'tea, Earl Grey, hot'
+#   elsif name == 'Kathryn'
+#     'coffee, black'
+#   else
+#     'perhaps...horchata?'
+#   end
+# end
+#
+# puts favourite_food('Rimmer')
+# puts favourite_food('Lister')
+# puts favourite_food('Cher')
+# puts favourite_drink('Kathryn')
+# puts favourite_drink('Oprah')
+# puts favourite_drink('Jean-Luc')
