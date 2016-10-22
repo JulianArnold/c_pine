@@ -1,32 +1,40 @@
-# 20160301 - 20160512: Writing your own methods
+# 20161022
 
-# reps: 2
+def roman_numeral num
+  raise 'Please use positive integers. ' if num <= 0
 
-def favourite_food name
-  if name == 'Lister'
-    return 'vindaloo'
+  digit_vals = [['I', 5, 1],
+                ['V', 10, 5],
+                ['X', 50, 10],
+                ['L', 100, 50],
+                ['C', 500, 100],
+                ['D', 1000, 500],
+                ['M', nil, 1000]]
+
+  roman = ''
+  remaining = nil
+
+  # build the string 'roman' in reverse
+  build_rev = proc do |l,m,n|
+    num_l = m ? (num % m / n) : (num / n)
+    full = m && (num_l == (m / n - 1))
+
+    if full && (num_l>1 || remaining)
+      # must carry
+      remaining ||= l # carry l if not already carrying
+    else
+      if remaining
+        roman << l + remaining
+        remaining = nil
+      end
+
+      roman << l * num_l
+    end
   end
 
-  if name == 'Rimmer'
-    return 'mashed potatoes'
-  end
+  digit_vals.each { |l,m,n| build_rev[l,m,n] }
 
-  'hard to say...maybe fried plantain?'
+  roman.reverse
 end
 
-def favourite_drinks name
-  if name == 'Jean-Luc'
-    'tea, Earl Gray, hot'
-  elsif name == 'Kathryn'
-    'coffee, black'
-  else
-    'perhaps...horchata?'
-  end
-end
-
-puts favourite_food('Rimmer')
-puts favourite_food('Lister')
-puts favourite_food('Cher')
-puts favourite_drinks('Kathryn')
-puts favourite_drinks('Oprah')
-puts favourite_drinks('Jean-Luc')
+puts roman_numeral 2

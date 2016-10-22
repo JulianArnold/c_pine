@@ -1,8 +1,20 @@
 20151120: Chris Pine Book
 
-20160512:
+20160830:
+re-boot (ish) and am on page 77
 
-Continuing with page 92/93 the favourite food and drink program.
+20160601:
+got as far as the 2nd iteration of the psychology questions on bed wetting (don't ask!).
+
+20160530:
+showoff.ie is a noshow.ie.  So, keep going with Ruby...
+
+20160525:
+..and we're back!  Submitted the Rails app to showoff.ie last night via email but didn't hear anything back from them.
+Finished up on page 93
+
+20160513:
+Continuing with page 92/93 the favourite food and drink program.  OK, reached page 94!!.
 
 20160511:
 Practicing on the say_moo method.  Page 92/93 the favourite food and drink program.
@@ -21,7 +33,6 @@ Working on chapter 9.
 
 20160315:
 Reading pages 87 & 88.
-
 
 20160314:
 Studying the local variable example.  Reps: 11

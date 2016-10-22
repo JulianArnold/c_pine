@@ -18,7 +18,7 @@ class BankAccount
 	
 	def show_balance
 		puts "Your balance is #{@balance}"
-		puts ""
+		puts ''
 	end
 	
 	def withdrawal
