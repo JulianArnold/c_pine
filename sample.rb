@@ -1,40 +1,16 @@
-# 20161022
+# 20161102; page 100 "Civilisation III"
 
-def roman_numeral num
-  raise 'Please use positive integers. ' if num <= 0
 
-  digit_vals = [['I', 5, 1],
-                ['V', 10, 5],
-                ['X', 50, 10],
-                ['L', 100, 50],
-                ['C', 500, 100],
-                ['D', 1000, 500],
-                ['M', nil, 1000]]
-
-  roman = ''
-  remaining = nil
-
-  # build the string 'roman' in reverse
-  build_rev = proc do |l,m,n|
-    num_l = m ? (num % m / n) : (num / n)
-    full = m && (num_l == (m / n - 1))
-
-    if full && (num_l>1 || remaining)
-      # must carry
-      remaining ||= l # carry l if not already carrying
-    else
-      if remaining
-        roman << l + remaining
-        remaining = nil
-      end
-
-      roman << l * num_l
-    end
+def factorial num
+  if num < 0
+    return 'You can\'t take the factorial of a negative number!'
   end
 
-  digit_vals.each { |l,m,n| build_rev[l,m,n] }
-
-  roman.reverse
+  if num <= 1
+    1
+  else
+    num * factorial(num-1)
+  end
 end
 
-puts roman_numeral 2
+puts factorial(0)

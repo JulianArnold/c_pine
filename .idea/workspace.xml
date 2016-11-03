@@ -3,24 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7c8e7bd7-8661-4cfd-afac-2c13fc0342ec" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/CP.iml" afterPath="$PROJECT_DIR$/.idea/CP.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/runConfigurations/sample.xml" afterPath="$PROJECT_DIR$/.idea/runConfigurations/sample.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DIARY.txt" afterPath="$PROJECT_DIR$/DIARY.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bank_account.rb" afterPath="$PROJECT_DIR$/bank_account.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/c2_numbers.rb" afterPath="$PROJECT_DIR$/c2_numbers.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/c3_letters.rb" afterPath="$PROJECT_DIR$/c3_letters.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/c4_variablesAndAssignment.rb" afterPath="$PROJECT_DIR$/c4_variablesAndAssignment.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/c5_mixingItUp.rb" afterPath="$PROJECT_DIR$/c5_mixingItUp.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/c6_moreAboutMethods.rb" afterPath="$PROJECT_DIR$/c6_moreAboutMethods.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/c7_flowControl.rb" afterPath="$PROJECT_DIR$/c7_flowControl.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/c8_arraysAndIterators.rb" afterPath="$PROJECT_DIR$/c8_arraysAndIterators.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/c9_writingYourOwnMethods.rb" afterPath="$PROJECT_DIR$/c9_writingYourOwnMethods.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample.rb" afterPath="$PROJECT_DIR$/sample.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/times_tables.rb" afterPath="$PROJECT_DIR$/times_tables.rb" />
     </list>
     <ignored path="CP.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,11 +21,13 @@
     <SUITE FILE_PATH="coverage/CP@c3.coverage" NAME="c3 Coverage Results" MODIFIED="1429449781007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CP" />
     <SUITE FILE_PATH="coverage/CP@c2.coverage" NAME="c2 Coverage Results" MODIFIED="1429449766771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CP" />
     <SUITE FILE_PATH="coverage/CP@times_tables4.coverage" NAME="times_tables4 Coverage Results" MODIFIED="1427925108269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Programs" MODULE_NAME="CP" />
-    <SUITE FILE_PATH="coverage/CP@sample.coverage" NAME="sample Coverage Results" MODIFIED="1477147698310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CP" />
+    <SUITE FILE_PATH="coverage/CP@c10_theresNothingNewToLearnInChapter_10.coverage" NAME="c10_theresNothingNewToLearnInChapter_10 Coverage Results" MODIFIED="1477916624818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CP" />
+    <SUITE FILE_PATH="coverage/CP@sample.coverage" NAME="sample Coverage Results" MODIFIED="1478123462585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CP" />
     <SUITE FILE_PATH="coverage/CP@calc.coverage" NAME="calc Coverage Results" MODIFIED="1429449792549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CP" />
-    <SUITE FILE_PATH="coverage/CP@bank_account.coverage" NAME="bank_account Coverage Results" MODIFIED="1472568088950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CP" />
+    <SUITE FILE_PATH="coverage/CP@bank_account.coverage" NAME="bank_account Coverage Results" MODIFIED="1477565637943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CP" />
     <SUITE FILE_PATH="coverage/CP@c7_flowControl.coverage" NAME="c7_flowControl Coverage Results" MODIFIED="1463434051169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CP" />
     <SUITE FILE_PATH="coverage/CP@c8_arraysAndIterators.coverage" NAME="c8_arraysAndIterators Coverage Results" MODIFIED="1456856333674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CP" />
+    <SUITE FILE_PATH="coverage/CP@c2_numbers.coverage" NAME="c2_numbers Coverage Results" MODIFIED="1477565780864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CP" />
     <SUITE FILE_PATH="coverage/CP@c9_writingYourOwnMethods.coverage" NAME="c9_writingYourOwnMethods Coverage Results" MODIFIED="1477132931004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CP" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -52,18 +38,7 @@
     <favorites_list name="CP" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sample.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sample.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -91,6 +66,7 @@
         <option value="$PROJECT_DIR$/c6_moreAboutMethods.rb" />
         <option value="$PROJECT_DIR$/times_tables.rb" />
         <option value="$PROJECT_DIR$/c9_writingYourOwnMethods.rb" />
+        <option value="$PROJECT_DIR$/c10_theresNothingNewToLearnInChapter_10.rb" />
         <option value="$PROJECT_DIR$/sample.rb" />
       </list>
     </option>
@@ -133,8 +109,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -155,6 +129,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -170,44 +146,6 @@
     <property name="FullScreen" value="true" />
   </component>
   <component name="RunManager" selected="Ruby.sample">
-    <configuration default="false" name="c7_flowControl" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="CP" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/c7_flowControl.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <method />
-    </configuration>
-    <configuration default="false" name="times_tables" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="CP" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/times_tables.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <method />
-    </configuration>
     <configuration default="false" name="c8_arraysAndIterators" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="CP" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -262,6 +200,44 @@
         </COVERAGE_PATTERN>
       </EXTENSION>
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/bank_account.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="c2_numbers" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="CP" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/c2_numbers.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="c10_theresNothingNewToLearnInChapter_10" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="CP" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/c10_theresNothingNewToLearnInChapter_10.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
@@ -398,19 +374,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Ruby.sample" />
-      <item index="1" class="java.lang.String" itemvalue="Ruby.c7_flowControl" />
-      <item index="2" class="java.lang.String" itemvalue="Ruby.times_tables" />
-      <item index="3" class="java.lang.String" itemvalue="Ruby.c8_arraysAndIterators" />
-      <item index="4" class="java.lang.String" itemvalue="Ruby.c9_writingYourOwnMethods" />
-      <item index="5" class="java.lang.String" itemvalue="Ruby.bank_account" />
+      <item index="1" class="java.lang.String" itemvalue="Ruby.c8_arraysAndIterators" />
+      <item index="2" class="java.lang.String" itemvalue="Ruby.c9_writingYourOwnMethods" />
+      <item index="3" class="java.lang.String" itemvalue="Ruby.bank_account" />
+      <item index="4" class="java.lang.String" itemvalue="Ruby.c2_numbers" />
+      <item index="5" class="java.lang.String" itemvalue="Ruby.c10_theresNothingNewToLearnInChapter_10" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Ruby.c9_writingYourOwnMethods" />
-        <item index="1" class="java.lang.String" itemvalue="Ruby.bank_account" />
-        <item index="2" class="java.lang.String" itemvalue="Ruby.c8_arraysAndIterators" />
-        <item index="3" class="java.lang.String" itemvalue="Ruby.times_tables" />
-        <item index="4" class="java.lang.String" itemvalue="Ruby.c7_flowControl" />
+        <item index="0" class="java.lang.String" itemvalue="Ruby.c10_theresNothingNewToLearnInChapter_10" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.c2_numbers" />
+        <item index="2" class="java.lang.String" itemvalue="Ruby.bank_account" />
+        <item index="3" class="java.lang.String" itemvalue="Ruby.c9_writingYourOwnMethods" />
+        <item index="4" class="java.lang.String" itemvalue="Ruby.c8_arraysAndIterators" />
       </list>
     </recent_temporary>
   </component>
@@ -469,36 +445,50 @@
       <workItem from="1476867610143" duration="2722000" />
       <workItem from="1476953225529" duration="3990000" />
       <workItem from="1477040219218" duration="3652000" />
-      <workItem from="1477132823097" duration="3098000" />
+      <workItem from="1477132823097" duration="3338000" />
+      <workItem from="1477150105768" duration="326000" />
+      <workItem from="1477227944149" duration="113000" />
+      <workItem from="1477316227132" duration="274000" />
+      <workItem from="1477389812324" duration="3183000" />
+      <workItem from="1477482328093" duration="7270000" />
+      <workItem from="1477558696183" duration="1293000" />
+      <workItem from="1477646670337" duration="2879000" />
+      <workItem from="1477734762731" duration="265000" />
+      <workItem from="1477846601062" duration="1344000" />
+      <workItem from="1477909701827" duration="81000" />
+      <workItem from="1477916457491" duration="400000" />
+      <workItem from="1477989695336" duration="110000" />
+      <workItem from="1478102772248" duration="3811000" />
+      <workItem from="1478176952584" duration="45000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82161000" />
+    <option name="totallyTimeSpent" value="103795000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31402004" sideWeight="0.49386504" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31759655" sideWeight="0.49386504" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35820895" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25485438" sideWeight="0.506135" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4340796" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4331126" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39925373" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46092716" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39925373" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -546,20 +536,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DIARY.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DIARY.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -786,13 +762,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bank_account.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/c8_arraysAndIterators.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="686">
@@ -835,13 +804,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/c2_numbers.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/rubystubs23/integer.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
@@ -874,22 +836,49 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
           <caret line="1033" column="8" selection-start-line="1033" selection-start-column="8" selection-end-line="1033" selection-end-column="8" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bank_account.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/c2_numbers.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/c10_theresNothingNewToLearnInChapter_10.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/c9_writingYourOwnMethods.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="257" column="0" selection-start-line="257" selection-start-column="2" selection-end-line="294" selection-end-column="23" />
+        <state relative-caret-position="-2070">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/2.3.0/rexml/functions.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="301" column="19" selection-start-line="301" selection-start-column="19" selection-end-line="301" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sample.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        <state relative-caret-position="0">
+          <caret line="0" column="38" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
           <folding />
         </state>
       </provider>
