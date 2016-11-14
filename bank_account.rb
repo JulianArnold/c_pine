@@ -1,50 +1,50 @@
+# BankAccount Exercise; inspired by rubySteps.
+# 20161109
+
+# http://www.rubyist.net/~slagell/ruby/objinitialization.html
+
+
+
+# I would like to create a Bank Account.  This may involve creating perhaps an instance of the bank account
+# class.
+# It should ask if I would like to deposit some cash and at any time, it can report the balance of the account so,
+# it should begin with a zero balance before deposit is received.
+
+# Should also allow for additional deposits and also withdrawals (no overdraft facilities yet).
+# Concluding each transaction, it should ask if there's any additional services the user may like to enquire about.
+# If a solid 'no', then the option to quit is offered.  If 'yes', then the program executes.  If 'no', then there's a
+# a 'Please type your request and a customer care rep will be in touch' message.  No emails taken just yet, the
+# program asks a final 'anything else?' and if it's a no, it closes.
+
 class BankAccount
-	
-	def initialize(name)
-		@transactions = []
-		@balance = 0
-	end
-	
-	def deposit
-		puts ''
-		print "How much would you like to deposit? "
-		puts ''
-		amount1 = gets.chomp
-		puts ''
-		@balance += amount1.to_f
-		puts "$#{amount1} has been deposited."
-		puts ''
-	end
-	
-	def show_balance
-		puts "Your balance is #{@balance}"
-		puts ''
-	end
-	
-	def withdrawal
-		puts ''
-		print "How much would you like to take out? "
-		puts ''
-		amount2 = gets.chomp
-		puts ''
-		@balance += amount2.to_f
-		puts "$#{amount2} has been withdrawn"
-		puts ''
-	end
-	
-	def total
-		puts ''
-		print "Your remaining balance is now: "		
-		puts ''
-		amount3 = amount1.merge(amount2)
-	end
+  # initialize method definition
+  def initialize # should there be a parameter here?
+    @account = 'account'
+    @balance = 'balance'
+    @withdraw = 'withdraw'
+    @deposit = 'deposit'  # do these go here?
+  end
+
+  def account
+    @account = 'account'
+  end
+
+  def balance
+    @balance = 'balance'
+    puts 'Your current balance is: '
+  end
+
+  def deposit
+    @deposit = 'deposit'
+    puts 'Please enter deposit amount: '
+  end
+
+  def withdraw
+    @withdraw = 'withdraw'
+  end
 end
 
-bank_account = BankAccount.new("Julian Arnold")
-bank_account.class # => BankAccount
+# probably a 'puts' or some declaration of a new instance of the class goes here.
 
-bank_account.deposit
-bank_account.show_balance
-
-bank_account.withdrawal
-bank_account.total
+bank_account = BankAccount.new
+puts bank_account
